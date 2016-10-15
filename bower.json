@@ -1,0 +1,24 @@
+{
+  "name": "bower",
+  "authors": [
+    "EvgenR <jkd@mail.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^5.0.0",
+    "jquery": "latest",
+    "bootstrap": "^3.3.7",
+    "tooltipster": "^4.1.5"
+  },
+  "devDependencies": {}
+}
